@@ -1,0 +1,12 @@
+---
+bug:
+- -1
+category: listing
+description: Bingham Mountain Cottage  is a rustic barn  that has been recently  converted
+  into a studio apartment. The studio is perched at the foothills of Bingham Mountain,  and
+  has incredible views of the rolling farmland that surrounds. A very unique spot.
+img: img/bingham_studio.jpg
+layout: default
+listing_id: 8144903
+title: Bingham Mountain Cottage
+---

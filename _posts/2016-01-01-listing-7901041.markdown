@@ -1,0 +1,12 @@
+---
+bug:
+- -1
+category: listing
+description: This charming two story cottage is set on rolling land overlooking dry
+  stacked stone walls and forest (1 of our 3 listings). The first floor has an open
+  floor plan with a stone fireplace at one end opposite the kitchen.
+img: img/cottage.jpg
+layout: default
+listing_id: 7901041
+title: The Cottage 
+---

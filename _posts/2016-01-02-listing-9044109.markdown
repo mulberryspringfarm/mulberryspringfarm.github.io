@@ -1,0 +1,13 @@
+---
+bug:
+- -1
+category: listing
+description: The Monroe House at Mulberry Spring is a historic two-story Colonial
+  residence (c. 1750's) situated in a picturesque complex of barns, guest cottages,
+  and outbuildings on 15.4 rolling acres.  The perfect getaway for a family or pair
+  of couples.
+img: img/monroehouse.jpg
+layout: default
+listing_id: 9044109
+title: Monroe House 
+---

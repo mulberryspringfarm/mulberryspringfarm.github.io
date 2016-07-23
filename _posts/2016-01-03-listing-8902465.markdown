@@ -1,0 +1,12 @@
+---
+bug:
+- -1
+category: listing
+description: A rustic two story cabin that dates back to the early years of the
+  estate (1 of our 3 listings). The cabin has a cozy living space with a wood burning
+  stove and exposed beams overhead. Conveniently located to the park and several wineries.
+img: img/cabin.jpg
+layout: default
+listing_id: 8902465
+title: The Cabin
+---
