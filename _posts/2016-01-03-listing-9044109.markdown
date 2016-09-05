@@ -1,0 +1,10 @@
+---
+bug:
+- -1
+category: listing
+description: A spacious timber framed barn sitting at the wood's edge, furnished with hand-made farm-style furniture. Designed for the artisan, the second story windows allow generous amounts of natural light to flood the entire space. A full kitchen downstairs transitions into a living area facing a garage door which puts your living room outside!
+img: img/barn.jpg
+layout: default
+listing_id: 14841459
+title: Vintage Barn
+---
